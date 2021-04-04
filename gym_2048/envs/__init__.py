@@ -1,1 +1,1 @@
-from env_2048.envs.env_2048 import _2048Env
+from gym_2048.envs.env_2048 import _2048Env
